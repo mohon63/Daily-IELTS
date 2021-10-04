@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.ielts.org/-/media/cdielts-761.ashx?la=en&hash=3EB2ECB555DA4780B6E33C852955BBD2808DB006",
+        "name": "Listening",
+        "description": "Fingerinf is the first and initial stage that should learn every guitarist.It helps to figure out.We teach very carefully and responsiblly this."
+    },
+    {
+        "id": 2,
+        "img": "https://img.freepik.com/free-photo/teenager-girl-looking-laptop-chiln-quarantine-isolation-period-during-pandemic-home-schooling-social-distancing-online-school-test_1157-44527.jpg?size=338&ext=jpg",
+        "name": "Reading",
+        "description": "Chord is the main part to handle a song to sounds good and feels awesome.There is a regulation system to manage and use chord well"
+    },
+    {
+        "id": 3,
+        "img": "https://ieltsamericas.com/wp-content/uploads/2020/02/writing-Stuck-at-6.5-Here%E2%80%99s-how-to-move-your-IELTS-writing-to-7.jpg",
+        "name": "Writing ",
+        "description": "Solo is called the harmony of a song that explains to feel the theme of a song.There are many process to gain various type of solo."
+    },
+    {
+        "id": 4,
+        "img": "https://ielts.com.au/wp-content/uploads/2020/05/190213.PN_.ielts-970-1800x1201.jpg",
+        "name": " Speaking",
+        "description": "Plucking is another excellent items that sounds awesome and feels more awesome.This item is need to compose every song...so you should learn it"
+    }
+]
