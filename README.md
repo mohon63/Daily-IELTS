@@ -1,10 +1,11 @@
-# Project name : learn music easy
+# Project name : Daily IELTS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site: https://lucid-jang-11353d.netlify.app/
 
 ## My app feature
 
-- abc
-- def
-- ghi
+- If you are looking to work, live or study in an English-speaking country, then you must be able to demonstrate a high level of English language ability.
+- Continual research-based improvement
+- Support materials for organisations
+- IELTS is developed to provide a fair and accurate assessment of English language proficiency.
 
