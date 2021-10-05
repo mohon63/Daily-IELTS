@@ -1,8 +1,8 @@
-.guitarSpan{
+.ieltsSpan{
     font-size:60px;
     color:rgb(233, 199, 7);
 }
-.guitarSpan:hover{
+.ieltsSpan:hover{
     color:rgb(0, 153, 255);
 }
 .imgHover{
@@ -12,7 +12,7 @@
     transform: scale(1.3);
 }
 .backgroundImage{
-    min-height: 70vh;
+    min-height: 90vh;
     background-image: url("https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80");
     object-fit: cover;
     background-size: cover;

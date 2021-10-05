@@ -1,13 +1,13 @@
 .signDiv{
-    clip-path: circle(40.6% at 50% 0);
-    height: 70vh;
+    /* clip-path: circle(40.6% at 50% 0); */
+    height: 30vh;
     background: rgb(10, 109, 190);
-    padding-top: 5rem;
+    padding-top: 1rem;
     transition: clip-path 1s;
     color: white;
 }
 .signDiv:hover{
-    clip-path: circle(49% at 50% 0);
+    /* clip-path: circle(49% at 50% 0); */
     background: rgb(9, 122, 214);
     
 }

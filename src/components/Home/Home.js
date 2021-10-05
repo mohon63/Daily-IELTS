@@ -13,7 +13,7 @@ const Home = () => {
                 <Container>
                     <Row className="d-flex align-items-center pt-5">
                         <div className="col col-md-7">
-                            <h1 className="fw-bold text-light">What is  <br /><span className="guitarSpan">IELTS?</span></h1>
+                            <h1 className="fw-bold text-light">What is  <br /><span className="ieltsSpan">IELTS?</span></h1>
                             <p>IELTS is an English language test for study, migration or work. Over three million people take our test every year. IELTS is accepted by more than 11,000 employers, universities, schools and immigration bodies around the world.</p>
                             <Button variant="primary">Learn Form Today</Button>
                         </div>

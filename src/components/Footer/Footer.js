@@ -46,7 +46,7 @@ const Footer = () => {
                     </ul>
                 </div>
             </Container>
-            <p className="p-0 m-0">allrights reserved by mohon</p>
+            <p className="p-3 m-0 bg-dark mt-3">allrights reserved by mohon</p>
         </div>
 
         // footer end 
